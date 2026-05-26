@@ -125,33 +125,7 @@ The following statistical techniques were applied:
 
 ---
 
-# 📂 Project Structure
 
-```text
-├── Dataset
-│   ├── Pre_Survey_Dataset.csv
-│   ├── Post_Survey_Dataset.csv
-│
-├── Code
-│   ├── preprocessing.py
-│   ├── hypothesis_testing.py
-│   ├── model_training.py
-│   ├── evaluation.py
-│
-├── Results
-│   ├── confusion_matrix
-│   ├── correlation_analysis
-│   ├── graphs
-│
-├── Documentation
-│   ├── methodology.pdf
-│   ├── survey_questions.pdf
-│
-├── README.md
-├── requirements.txt
-```
-
----
 
 # 📌 Conclusion
 
