@@ -1,0 +1,10 @@
+,count,mean,std,min,25%,50%,75%,max
+10th Percentage,500.0,74.99999999999997,11.581896678062828,55.0,65.0,75.0,85.0,95.0
+12th percentage,500.0,74.99999999999999,14.4772245288978,50.0,62.5025,75.0,87.4975,100.0
+Current percentage/CGPA,500.0,49.71372000000001,11.05978420290513,40.0,40.0,43.265,60.595,70.5
+Are you Aware of Neuro-Linguistic Programming (NLP)?,500.0,0.7,0.4587165155990888,0.0,0.0,1.0,1.0,1.0
+Do you have any backlogs?,500.0,0.3,0.4587165155990888,0.0,0.0,0.0,1.0,1.0
+How effectively can you regulate your emotions under pressure? ,500.0,3.0,1.3181635369787918,1.0,1.6275,3.335,4.1625,5.0
+How intense are the emotions you feel before tests or deadlines? ,500.0,3.0,1.3181635369787918,1.0,1.6275,3.335,4.1625,5.0
+How much does a positive emotional state improve your performance? ,500.0,3.1,1.0149582654282503,1.0,2.3375,3.14,3.8525,5.0
+How strongly does inner dialogue affect your performance? ,500.0,3.0,1.3181635369787918,1.0,1.6275,3.335,4.1625,5.0
